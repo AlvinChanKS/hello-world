@@ -25,8 +25,11 @@ In this lab you will get a practice working with github including creating and f
 - Clone the repo on your desired location on your laptop, to clone the repositort on your local machine, follow the below steps:
 
 1- In your repository that you've made above, under code, you will see the URL of the repository. Copy the uRL, here is an example:
+
 2- Open terminal on Mac or Git bash on windows:
+
 Type **pwd** to print the working directory. If your type **ls**, you can see the list of the files in your directory.
+
 To change the working directory, you cn type **cd**. For instance, you can type **cd folder/to/clone-into/** to change the path to the directory that you want to clone the file. I copies the repo to my C: drive per below example
 
 **Good Job. You have created a new repository including a readme file and you have learned how to write a markdown document and clone a repo.**
