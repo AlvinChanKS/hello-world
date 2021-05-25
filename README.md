@@ -13,7 +13,7 @@ In this lab you will get a practice working with github including creating and f
 
 ### Exercise 1 - Creating a repo on github, learning more about markdown
 
-- Creat a github account here [https://github.com/](https://github.com/)
+- Creat a github account here [(https://github.com/)](https://github.com/)
 - Create a new public repository called "hello-world" on github, add a description of your repository  
 "My first repository on GitHub.". Initialize this repository with a README.
 - In your repository's list of files, click README.md.
@@ -44,4 +44,25 @@ below example
 **Good Job. You have created a new repository including a readme file and you have learned  
 how to write a markdown document and clone a repo.**
 
+<br/>
+
+<div align="center">
+
+<img src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" width=50% height=50%>
+
+Figure 1: Clone
+
+<img src="https://www.computerhope.com/issues/pictures/git-list-remote.jpg" width = 50% height = 50%>
+
+Figure 2: Git Example
+  
+</div>
+
+<br/>
+
+### Exercise 2 - Forking
+
+- On GitHub, navigate to the [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) repository
+- Fork this repository
+- Clone the forked repository on your laptop
 
