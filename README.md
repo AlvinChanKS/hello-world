@@ -35,9 +35,9 @@ URL, here is an example:
 
 2- Open terminal on Mac or Git bash on windows:
 
-Type **pwd** to print the working directory. If your type **ls**, you can see the list of the files in your directory.
+Type **`pwd`** to print the working directory. If your type **`ls`**, you can see the list of the files in your directory.
 
-To change the working directory, you cn type **cd**. For instance, you can type **cd folder/to/clone-into/**  
+To change the working directory, you cn type **`cd`**. For instance, you can type **`cd folder/to/clone-into/`**  
 to change the path to the directory that you want to clone the file. I copies the repo to my C: drive per  
 below example
 
